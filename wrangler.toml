@@ -1,0 +1,7 @@
+name = "discord_interactions_proxy"
+type = "javascript"
+
+account_id = "c14440c2c98e1dda903cbcf9b270516a"
+workers_dev = true
+route = "foxbot-interactions.foxorsomething.net/process_interaction"
+zone_id = "66224e1b584afa7f491fed8c10c2a553"
